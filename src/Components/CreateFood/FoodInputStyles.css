@@ -1,0 +1,10 @@
+.foodInputContainer{
+    max-width: 200px;
+    text-align: start;
+    background-color: darkgray;
+}
+
+.foodInput{
+    border-radius: 5px;
+    border-color: antiquewhite;
+}

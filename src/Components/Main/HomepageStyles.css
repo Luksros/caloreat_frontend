@@ -1,0 +1,9 @@
+#InputContainer{
+    display: flex;
+    flex-direction: row;
+    max-width: 400px;
+    text-align: start;
+    background-color: darkgray;
+    padding: 10px;
+    border-radius: 5px;
+}
